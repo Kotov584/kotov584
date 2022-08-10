@@ -1,4 +1,4 @@
-<h3 align="center">An IT fresher currently residing in Canada</h3>
+<h3 align="center">An IT fresher currently based in Canada</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kotov584&label=Profile%20views&color=0e75b6&style=flat" alt="kotov584" /> </p>
 
