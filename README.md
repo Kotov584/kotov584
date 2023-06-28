@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vlad</h1>
 <h3 align="center">A passionate Software Engineer with purpose to deliver high-quality code</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kotov584&label=Profile%20views&color=0e75b6&style=flat" alt="kotov584" /> </p>
+<!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=kotov584&label=Profile%20views&color=0e75b6&style=flat" alt="kotov584" /> </p>-->
 
 - 🔭 Working on **Telegant and Manabu open-source projects**
 
