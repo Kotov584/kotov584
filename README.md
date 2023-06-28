@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kotov584&label=Profile%20views&color=0e75b6&style=flat" alt="kotov584" /> </p>
 
-- 🔭 I’m currently working on **Telegant and Manabu open-source projects**
+- 🔭 Working on **Telegant and Manabu open-source projects**
 
-- 🌱 I’m currently learning **Python, Rust**
+- 🌱 Learning **Python, Rust**
 
 - 👨‍💻 All of my projects are available at [https://github.com/kotov584](https://github.com/kotov584)
 
