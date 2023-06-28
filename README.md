@@ -5,7 +5,7 @@
 
 - 🔭 Working on **Telegant and Manabu open-source projects**
 
-- 🌱 Learning **Python, Rust**
+- 🌱 Learning **Python and Rust**
 
 - 👨‍💻 All of my projects are available at [https://github.com/kotov584](https://github.com/kotov584)
 
