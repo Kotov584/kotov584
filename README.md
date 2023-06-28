@@ -7,8 +7,6 @@
 
 - 🌱 Learning **Python and Rust**
 
-- 👨‍💻 All of my projects are available at [https://github.com/kotov584](https://github.com/kotov584)
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
     <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40" /> </a>
