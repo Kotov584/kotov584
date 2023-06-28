@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kotov584&label=Profile%20views&color=0e75b6&style=flat" alt="kotov584" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kotov584" alt="kotov584" /></a> </p>
-
 - 🔭 I’m currently working on **Telegant and Manabu open-source projects**
 
 - 🌱 I’m currently learning **Python, Rust**
